@@ -1,0 +1,26 @@
+{
+  "name": "my_qtranslate",
+  "type": "wordpress-plugin",
+  "license": "MIT",
+  "description": "Powerful translate for WordPress developers",
+  "homepage": "https://qtranslatexteam.wordpress.com/about/",
+  "authors": [
+    {
+      "name": "Qian Qin",
+      "email": "info@qtranslate.com",
+      "homepage": "https://qtranslatexteam.wordpress.com/about/"
+    }
+  ],
+  "keywords": [
+    "wordpress"
+  ],
+  "support": {
+    "issues": "https://qtranslatexteam.wordpress.com/about/",
+    "forum": "https://qtranslatexteam.wordpress.com/about/"
+  },
+  "require": {
+    "php": ">=5.5.0",
+    "composer/installers": "~1.0"
+  },
+  "minimum-stability": "dev"
+}
